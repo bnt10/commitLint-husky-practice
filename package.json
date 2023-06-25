@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "commit": "cz"
+  },
+  "devDependencies": {
+    "commitlint-husky": "^0.0.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "@commitlint/cz-commitlint"
+    }
+  }
+}
